@@ -1,0 +1,92 @@
+.card-main{
+    border: 1px solid black;
+    width: 60.5%;
+    height: 200px;
+    background-color: #F5F1EF;
+
+}
+
+.heading{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    
+}
+
+.row-1 {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 10px;
+    margin-top: 15px;   
+  }
+  
+  .row-1 input[type="text"]:last-child {
+    margin-left: 30px; 
+  }
+
+  .row-2 {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+
+  .row-2 input[type="text"]:last-child {
+    margin-left: 30px; 
+  }
+
+ 
+   .row-3 {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+
+  .row-3 button:first-child {
+     
+  }
+
+  .row-3 button:last-child {
+    margin-left: 30px;
+     
+  }
+
+  .btn-1{
+    background-color: cadetblue;
+    color: white;
+    font-size: 15px;
+    
+  }
+
+
+  input::placeholder{
+    font-weight: 500;
+    font-size: 15px;
+    display: flex;
+    padding-left: 10px;
+  }
+  
+  
+  
+
+  .card-no{
+    width: 300px;
+    height: 35px;
+  }
+
+  .cvv-1{
+    width: 300px;
+    height: 35px;
+
+  }
+  .card-name{
+    width: 270px;
+    height: 35px;
+  }
+
+
+.side-1{
+    
+}
